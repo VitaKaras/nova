@@ -100,8 +100,7 @@
   },
   "dependencies": {
     "resize-observer-polyfill": "^1.5.0",
-    "tslib": "^2.1.0",
-    "lodash": "4.17.20"
+    "tslib": "^2.1.0"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "^0.1101.2",
@@ -170,7 +169,6 @@
     "karma-jasmine": "~4.0.0",
     "karma-jasmine-html-reporter": "^1.5.0",
     "less": "~4.1.1",
-    "lodash": "4.17.20",
     "modernizr": "~3.8.0",
     "moment": "^2.25.3",
     "moment-timezone": "^0.5.27",
